@@ -8,5 +8,6 @@ plot(x = london_weather$sunshine,
      pch =19,
      frame = T)
 model <- lm (y ~ x, data = london_weather)
-abline(model, col = "blue")
+abline(model, col = "red")
+
 
