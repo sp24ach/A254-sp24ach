@@ -1,4 +1,4 @@
-date,cloud_cover,sunshine,radiation in london,max_temp,mean_temp,min_temp,precipitation,pressure,snow_depth
+date,cloud_cover,sunshine,radiations,max_temp,mean_temp,min_temp,precipitation,pressure,snow_depth
 19790101,2,7,52,2.3,-4.1,-7.5,0.4,101900,9
 19790102,6,1.7,27,1.6,-2.6,-7.5,0,102530,8
 19790103,5,0,13,1.3,-2.8,-7.2,0,102050,4
