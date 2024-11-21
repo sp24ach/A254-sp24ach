@@ -9,7 +9,7 @@ hist(radiation,
      col="lightblue",
      main="Histogram of Radiation",
      xlab="Radiation",
-     ylab="Frequency",
+     ylab="Density",
      probability=TRUE) # makes density rather than frequency
 
 # Create Normal Distribution Bell Curve
